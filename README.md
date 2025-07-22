@@ -1,4 +1,4 @@
-# 🧠 Security Research Presentation – Internship at EthicSecure
+# 🧠 Security Research Presentation – Internship at ES EthicSecur
 
 This repository contains a research presentation I delivered during my **Security Analyst Internship** at **ES EthicSecur SofTec Pvt. Ltd (Mar – Apr 2025)**. The research spanned a wide range of cybersecurity topics — from real-world attacks to cloud security, encryption, SIEM/SOAR platforms, and more.
 
@@ -54,4 +54,4 @@ This repository contains a research presentation I delivered during my **Securit
 📧 msnvmkkumar96661@gmail.com  
 🐙 [GitHub](https://github.com/0xCyberSleuth)
 
-> 💡 *This project was part of a research initiative under my internship at EthicSecure in 2025.*
+> 💡 *This project was part of a research initiative under my internship at ES EthicSecur in 2025(Mar-Apr).*
